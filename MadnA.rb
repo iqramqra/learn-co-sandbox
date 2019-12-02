@@ -3,4 +3,4 @@ def greeting_a_person(name)
   puts "hello #{name}"
 end
 
-greeting_a_person("Iqra")
+greeting_a_person
